@@ -22,7 +22,7 @@ In order to change the default settings for the maze algorithms, you need to nav
 
 ### Changing the **generating** algorithm:
 You will change this `mazeGeneratingAlgorithm` parameter, and for now do not touch the others.<br>
-There are three algorithms you can go with:
+There are 3 algorithms you can go with:
 ```
 1. EmptyMazeGenerator
 2. SimpleMazeGenerator
@@ -41,7 +41,7 @@ mazeGeneratingAlgorithm = SimpleMazeGenerator
 
 ### Changing the **solving** algorithm:
 You will change this `mazeSearchingAlgorithm` parameter, and for now do not touch the others.<br>
-There are three algorithms you can go with:
+There are 3 algorithms you can go with:
 ```
 1. BreadthFirstSearch
 2. DepthFirstSearch
