@@ -21,7 +21,7 @@ The default algorithms from [partA](https://github.com/eliyaballout/Maze_Game/tr
 In order to change the default settings for the maze algorithms, you need to navigate to [config file](https://github.com/eliyaballout/Maze_Game/blob/main/partB/resources/config.properties), and do the following:
 
 ### Changing the **generating** algorithm:
-You will change this `mazeGeneratingAlgorithm` parameter, and for now do not touch the other.<br>
+You will change this `mazeGeneratingAlgorithm` parameter, and for now do not touch the others.<br>
 There are three algorithms you can go with:
 ```
 1. EmptyMazeGenerator
@@ -40,7 +40,7 @@ mazeGeneratingAlgorithm = SimpleMazeGenerator
 
 
 ### Changing the **solving** algorithm:
-You will change this `mazeSearchingAlgorithm` parameter, and for now do not touch the other.<br>
+You will change this `mazeSearchingAlgorithm` parameter, and for now do not touch the others.<br>
 There are three algorithms you can go with:
 ```
 1. BreadthFirstSearch
