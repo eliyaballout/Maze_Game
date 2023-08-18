@@ -6,10 +6,10 @@ We used the **Bridge Design Pattern** to separate the algorithm from the problem
 
 **For generating algorithms we used:**
 1. **Empty Maze Generator**: Generating a maze without wall.
-2. **Simple Maze Generator**: Generating a simple Maze with simple Road.
+2. **Simple Maze Generator**: Generating a simple Maze with simple road.
 3. **My Maze Generator**: Generating a maze using Prim's Algorithm.
 
-<br><br>
+<br>
 
 **For solving algorithms we used:**
 1. **BFS** (Breadth First Search).
