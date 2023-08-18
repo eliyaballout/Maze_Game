@@ -11,7 +11,7 @@ Are you up for the challenge? Engage your senses, sharpen your instincts, and em
 Welcome to the maze – may your instincts guide you and your courage propel you forward.
 <br><br>
 
-This Application game was developed using Java and JavaFX, you can navigate through all the parts [A](https://github.com/eliyaballout/Maze_Game/tree/main/partA), [B](https://github.com/eliyaballout/Maze_Game/tree/main/partB) and [C](https://github.com/eliyaballout/Maze_Game/tree/main/partC) and read the brief description for the Application.
+This Application game was developed using **Java** and **JavaFX**, you can navigate through all the parts [A](https://github.com/eliyaballout/Maze_Game/tree/main/partA), [B](https://github.com/eliyaballout/Maze_Game/tree/main/partB) and [C](https://github.com/eliyaballout/Maze_Game/tree/main/partC) and read the brief description for the Application.
 
 <br><br><br>
 
@@ -48,10 +48,16 @@ The currently supported resources are:
   
 ## Technologies Used
 * We used JavaFX for GUI implementation.<br><br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
 <br><br><br>
 
 
 
 
 ## Some screenshots from our game
+
+![mainPage](https://github.com/eliyaballout/Maze_Game/assets/94072460/f5294233-6f7c-4aff-bdfb-78f6e2c3f595) <br><br>
+
+![generate Maze](https://github.com/eliyaballout/Maze_Game/assets/94072460/55b35450-02f0-43ec-84f3-b7eaeb731275) <br><br>
+
+![soleMaze](https://github.com/eliyaballout/Maze_Game/assets/94072460/43e6d89c-4bf6-453b-baa9-f170e110ac62) <br>
