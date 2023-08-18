@@ -13,6 +13,7 @@ Welcome to the maze – may your instincts guide you and your courage propel you
 
 This Application game was developed using Java and JavaFX, you can navigate through all the parts [A](https://github.com/eliyaballout/Maze_Game/tree/main/partA), [B](https://github.com/eliyaballout/Maze_Game/tree/main/partB) and [C](https://github.com/eliyaballout/Maze_Game/tree/main/partC) and read the brief description for the Application.
 
+<br><br><br>
 
 
 
