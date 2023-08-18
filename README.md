@@ -58,6 +58,6 @@ The currently supported resources are:
 
 ![mainPage](https://github.com/eliyaballout/Maze_Game/assets/94072460/f5294233-6f7c-4aff-bdfb-78f6e2c3f595) <br><br>
 
-![generate Maze](https://github.com/eliyaballout/Maze_Game/assets/94072460/55b35450-02f0-43ec-84f3-b7eaeb731275) <br><br>
+![generateMaze](https://github.com/eliyaballout/Maze_Game/assets/94072460/aa6cde05-b7b3-49e9-ba6a-09b5f44fa69d) <br><br>
 
-![soleMaze](https://github.com/eliyaballout/Maze_Game/assets/94072460/43e6d89c-4bf6-453b-baa9-f170e110ac62) <br>
+![solveMaze](https://github.com/eliyaballout/Maze_Game/assets/94072460/c1b9ca60-456b-49be-a941-0a330c13ca51) <br>
